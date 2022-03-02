@@ -9,6 +9,9 @@
     "url": "https://github.com/anitachan/sb-components",
     "type": "git"
   },
+  "peerDependencies": {
+    "react": ">=16"
+  },
   "release": {
     "branches": [
       "main"
